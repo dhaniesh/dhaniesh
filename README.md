@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Dhaniesh
 
-<!--
-**dhaniesh/dhaniesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | Cloud Enthusiast | Automation-Driven
 
-Here are some ideas to get you started:
+I build backend systems, automate workflows, and deploy cloud-native solutions using Python, AWS, and modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Things I enjoy:
+- Writing scalable backend logic
+- Automating boring tasks (especially migrations 😉)
+- Building tools that make developers more productive
+
+🔍 Interests:
+- LLMs in engineering workflows
+- AWS Serverless stack (Lambda, API Gateway, RDS, Glue)
+- Contentful, CI/CD, and infrastructure as code
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/dhaniesh-m)
+
+## 📊 GitHub Magic
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaniesh&layout=compact&theme=radical)
+  
+</div>
