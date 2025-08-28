@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dhaniesh
 
-🚀 Python Developer | Cloud Enthusiast | Automation-Driven
+🚀 Software Engineer | Cloud Enthusiast | Automation-Driven
 
 I build backend systems, automate workflows, and deploy cloud-native solutions using Python, AWS, and modern DevOps practices.
 
