@@ -11,7 +11,7 @@ I build backend systems, automate workflows, and deploy cloud-native solutions u
 
 🔍 Interests:
 - LLMs in engineering workflows
-- AWS Serverless stack (Lambda, API Gateway, RDS, Glue)
+- AWS Serverless stack (Lambda, API Gateway, S3, Cloudfront)
 - Contentful, CI/CD, and infrastructure as code
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/dhaniesh-m)
