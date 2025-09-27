@@ -1,21 +1,19 @@
-# 👋 Hey, I'm Dhaniesh
+# Hey, I'm Dhaniesh
 
-🚀 Software Engineer | Cloud Enthusiast | Automation-Driven
+Software Engineer | Cloud Enthusiast | Automation-Driven
 
 I build backend systems, automate workflows, and deploy cloud-native solutions using Python, AWS, and modern DevOps practices.
 
-🛠️ Things I enjoy:
+Things I enjoy:
 - Writing scalable backend logic
-- Automating boring tasks (especially migrations 😉)
 - Building tools that make developers more productive
 
-🔍 Interests:
+Interests:
 - LLMs in engineering workflows
 - AWS Serverless stack (Lambda, API Gateway, S3, Cloudfront)
 - Contentful, CI/CD, and infrastructure as code
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/dhaniesh-m)
-📫 Test: [LinkedIn](https://ielts.sit.idp.com)
 
 ## 📊 GitHub Magic
 
